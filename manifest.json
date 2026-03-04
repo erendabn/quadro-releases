@@ -3,7 +3,7 @@
   "components": {
     "quadroscreen": {
       "dir": "/home/cp/KlipperScreen",
-      "target_tag": "v0.0.2",
+      "target_tag": "v0.0.1",
       "service_name": "KlipperScreen"
     },
     "quadroklipper": {
