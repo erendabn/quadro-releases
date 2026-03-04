@@ -1,0 +1,20 @@
+{
+  "os_version": "v0.0.1",
+  "components": {
+    "quadroscreen": {
+      "dir": "/home/cp/KlipperScreen",
+      "target_tag": "v0.0.1",
+      "service_name": "KlipperScreen"
+    },
+    "quadroklipper": {
+      "dir": "/home/cp/klipper",
+      "target_tag": "v0.13.0",
+      "service_name": "klipper"
+    },
+    "moonraker": {
+      "dir": "/home/cp/moonraker",
+      "target_tag": "v0.9.3",
+      "service_name": "moonraker"
+    }
+  }
+}
