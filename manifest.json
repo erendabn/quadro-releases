@@ -1,9 +1,9 @@
 {
-  "os_version": "v0.0.1",
+  "os_version": "v0.0.2",
   "components": {
     "quadroscreen": {
       "dir": "/home/cp/KlipperScreen",
-      "target_tag": "v0.0.1",
+      "target_tag": "v0.0.2",
       "service_name": "KlipperScreen"
     },
     "quadroklipper": {
