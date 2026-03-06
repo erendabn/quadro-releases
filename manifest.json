@@ -2,17 +2,17 @@
   "os_version": "v0.0.4",
   "components": {
     "quadroscreen": {
-      "dir": "/home/cp/KlipperScreen",
+      "dir": "/data/KlipperScreen",
       "target_tag": "v0.0.4",
       "service_name": "KlipperScreen"
     },
     "quadroklipper": {
-      "dir": "/home/cp/klipper",
+      "dir": "/data/klipper",
       "target_tag": "v0.13.0",
       "service_name": "klipper"
     },
     "moonraker": {
-      "dir": "/home/cp/moonraker",
+      "dir": "/data/moonraker",
       "target_tag": "v0.9.3",
       "service_name": "moonraker"
     }
